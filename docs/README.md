@@ -24,7 +24,7 @@ Link to Developer Manual:
 ### Developer Manual  
 **Project Title**: Federal Job Search Assistant for College Students  
 
----
+-----
 
 ### Table of Contents  
 1. **Installation**  
